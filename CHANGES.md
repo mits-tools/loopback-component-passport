@@ -1,3 +1,17 @@
+2018-07-09, Version 3.10.0
+==========================
+
+ * [WebFM] cs/pl/ru translation (candytangnb)
+
+ * support nameID as saml profile id field (Peter Willis)
+
+
+2018-06-20, Version 3.9.0
+=========================
+
+ * chore: update deps and drop node 4 (Taranveer Virk)
+
+
 2018-05-08, Version 3.8.1
 =========================
 
